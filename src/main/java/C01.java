@@ -4,5 +4,8 @@ public class C01 {
 
         //ver 1
         System.out.println("v1");
+
+        //v2
+        System.out.println("v2");
     }
 }
