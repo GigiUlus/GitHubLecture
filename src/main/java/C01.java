@@ -7,5 +7,8 @@ public class C01 {
 
         //v2
         System.out.println("v2");
+
+        //v3
+        System.out.println("v3");
     }
 }
